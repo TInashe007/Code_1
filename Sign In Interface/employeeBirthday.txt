@@ -1,0 +1,5 @@
+l_name	first_name	D.O.B	Email
+Doe	John	1982/10/08	john.doe@foobar.com
+Ann	Mary	1995/05/10	mary.jane@foobar.com
+Doe	Jane	2020/02/15	jane.doe@foobar.com
+Nyamz	Alton	1995/08/03	altonn03@gmail.com
